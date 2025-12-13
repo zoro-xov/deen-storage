@@ -812,64 +812,7 @@
         ]
     }
 },
-    "food",":", {
-        "id": 4,
-        "category": "أذكار الطعام",
-        "icon": "icon/food.png",
-        "array": [
-            {
-                "id": 1,
-                "title": "أذكار الطعام - ماذا تقول عند الطعام والشراب",
-                "adhkar": "الذكر عند الطعام والشراب\nبِسْمِ اللَّهِ، فَإِنْ نَسِيَ فِي أوَّلِهِ، فَلْيَقُلْ: بِسْمِ اللَّهِ أوَّلِهِ وآخِرِهِ",
-                "pronunciation": "Ath-thikru 'indat-ta'am wash-sharab: Bismillah, fa-in nasiya fee awwalihi, falyagul: Bismillahi awwalihi wa akhirih.",
-                "translation": "Remembrance at eating and drinking: 'In the name of Allah.' If one forgets at the beginning, then let him say: 'In the name of Allah at its beginning and its end.'",
-                "description": "ذكر الله في اول الطعام بقول بسم الله فإذا أنساه الشيطان أن يذكر اسم الله في بداية الأكل، وتذكر ذلك اثناء الطعام فليقل بسم الله أوله وآخره",
-                "source": "أخرجه أبو داود، ٣/ ٣٤٧، برقم ٣٧٦٧، والترمذي، ٤/ ٢٨٨، برقم ١٨٥٨",
-                "repetition": 1
-            },
-            {
-                "id": 2,
-                "title": "أذكار الطعام - الذكر عند شرب اللبن",
-                "adhkar": "الذكر عند شرب اللبن\nاَللَّهُمَّ بَارِكْ لَنَا فِيهِ, وَزِدْنَا مِنْهُ",
-                "pronunciation": "Ath-thikru 'inda sharbil-laban: Allahumma barik lana feeh, wa zidna minh.",
-                "translation": "Remembrance when drinking milk: 'O Allah, bless us in it and increase us from it.'",
-                "description": "عَنْ ابْنِ عَبَّاسٍ - رضي الله عنهما قَالَ رَسُولُ اللهِ - صلى اللهُ عليه وسلَّم (...... مَنْ سَقَاهُ اللهُ لَبَنًا فَلْيَقُلْ: اللَّهُمَّ بَارِكْ لَنَا فِيهِ , وَزِدْنَا مِنْهُ)",
-                "source": "الترمذي، ٥/ ٥٠٦، برقم ٣٤٥٥، وانظر: صحيح الترمذي، ٣/ ١٥٨",
-                "repetition": 1
-            },
-            {
-                "id": 3,
-                "title": "أذكار الطعام - الذكر عند الفراغ من الطعام والشراب",
-                "adhkar": "الذكر عند الفراغ من الطعام والشراب\nالْحَمْدُ للهِ الَّذِي أَطْعَمَنِي هَذَا, وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِّنِّي وَلاَ قُوَّةٍ",
-                "pronunciation": "Ath-thikru 'indal-faraqhi minat-ta'am wash-sharab: Alhamdulillahil-lathee at'amani hatha, wa razaqaneehi min ghayri hawlim-minnee wa la quwwah.",
-                "translation": "Remembrance after finishing food and drink: 'All praise is for Allah who fed me this and provided it for me without any power or strength from me.'",
-                "description": "الإعتراف بالعجز والتقصير، وعدم القدرة في تحصيل هذا الطعام، بل هذا من فضل الله، ورزق عباده، والله ذو الفضل العظيم",
-                "source": "أخرجه: أبو داود، برقم ٤٠٢٥، والترمذي، برقم ٣٤٥٨، وابن ماجه، برقم ٣٢٨٥",
-                "repetition": 1
-            },
-            {
-                "id": 4,
-                "title": "أذكار الطعام - دعاء الضيف لصاحب الطعام",
-                "adhkar": "دعاء الضيف لصاحب الطعام\nللَّهُمَّ بَارِكْ لَهُمْ فِيمَا رَزَقْتَهُم، وَاغْفِرْ لَهُمْ وَارْحَمْهُمْ",
-                "pronunciation": "Du'a'ud-dayfi li-sahibit-ta'am: Allahumma barik lahum feema razaqtahum, waghfir lahum warhamhum.",
-                "translation": "The guest's supplication for the host: 'O Allah, bless them in what You have provided them, and forgive them and have mercy on them.'",
-                "description": "أَكَلَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عِنْدَ رَجُلٍ وَشَرِبَ، فَلَمَّا فَرَغَ قَالَ: .....",
-                "source": "مسلم، ٣/ ١٦١٥، برقم ٢٠٤٢",
-                "repetition": 1
-            },
-            {
-                "id": 5,
-                "title": "أذكار الطعام - الدعاء إذا افطر عند أهل بيت",
-                "adhkar": "الدعاء إذا أفطر عند أهل بيت\nأَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ، وَأَكَلَ طَعَامَكُمُ الْأَبْرَارُ، وَصَلَّتْ عَلَيْكُمُ الْمَلائِكَةُ",
-                "pronunciation": "Ad-du'a'u idha aftara 'inda ahli bait: Aftara 'indakumus-sa'imoon, wa akala ta'amakumul-abrar, wa sallat 'alaykumul-mala'ikah.",
-                "translation": "The supplication when breaking fast at someone's house: 'May the fasting ones break their fast with you, may the righteous eat your food, and may the angels send prayers upon you.'",
-                "description": "وجاء في رواية: أن النبي - صلى الله عليه وسلم - يقوله إذا أفطر عند أهل بيت",
-                "source": "سنن أبي داود، ٣/ ٣٦٧، برقم ٣٨٥٦، وابن ماجه، ١/ ٥٥٦، برقم ١٧٤٧",
-                "repetition": 1
-            }
-        ]
-    },
-        "prayer",":", {
+        "prayer": {
         "id": 5,
         "category": "أذكار بعد الصلاة",
         "icon": "icon/prayer.png",
