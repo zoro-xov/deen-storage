@@ -1,3 +1,4 @@
+[
 {
     "morning": {
         "id": 1,
@@ -751,7 +752,7 @@
                 "repetition": 1
             }
         ]
-    },
+    }},
    {
     "food": {
         "id": 4,
@@ -811,7 +812,7 @@
         ]
     }
 },
-    "food": {
+    "food",":", {
         "id": 4,
         "category": "أذكار الطعام",
         "icon": "icon/food.png",
@@ -868,7 +869,7 @@
             }
         ]
     },
-        "prayer": {
+        "prayer",":", {
         "id": 5,
         "category": "أذكار بعد الصلاة",
         "icon": "icon/prayer.png",
@@ -955,4 +956,5 @@
             }
         ]
     }
-}
+
+]
