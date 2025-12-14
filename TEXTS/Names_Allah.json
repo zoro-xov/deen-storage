@@ -2,151 +2,203 @@
     {
         "id": 1,
         "name":"اللَّهُ",
-        "text":"وهو الاسم الأعظم الذي تفرد به الحق سبحانه وخص به نفسه وجعله أول أسمائه، وأضافها كلها إليه فهو علم على ذاته سبحانه",
+        "text":text":"وهو الاسم الأعظم الذي تفرد به الحق سبحانه وخص به نفسه وجعله أول أسمائه، وأضافها كلها إليه فهو علم على ذاته س,
         "name_en": "Allah",
         "text_en": "It is the Greatest Name by which the Absolute Truth, Glorified and Exalted, is uniquely distinguished, reserved exclusively for Himself. He made it the first of His Names and attributed all the other Names to it, so it stands as a proper name for His Divine Essence."
     },
     {
-        "id": 2,
-        "name":"الرَّحْمَنُ",
-        "text":"كثير الرحمة وهو اسم مقصور على الله عز وجل ولا يجوز أن يقال رحمن لغير الله، وذلك لأن رحمته وسعت كل شيء وهو أرحم الراحمين"
-    },
-    {
-        "id": 3,
-        "name":"الرَّحِيم",
-        "text":"هو المنعم أبدا، المتفضل دوما، فرحمته لا تنتهي"
-    },
-    {
-        "id": 4,
-        "name":"المَلِك",
-        "text":"هو الله، ملك الملوك، له الملك، وهو مالك يوم الدين، ومليك الخلق فهو المالك المطلق"
-    },
-    {
-        "id": 5,
-        "name":"الْقُدُّوس",
-        "text":"هو الطاهر المنزه عن العيوب والنقائص وعن كل ما تحيط به العقول"
-    },
-    {
-        "id": 6,
-        "name":"السَّلَام",
-        "text":"هو ناشر السلام بين الأنام وهو الذي سلمت ذاته من النقص والعيب والفناء"
-    },
-    {
-        "id": 7,
-        "name":"المُؤْمِن",
-        "text":"هو الذي سلم أوليائه من عذابه، والذي يصدق عباده ما وعدهم"
-    },
-    {
-        "id": 8,
-        "name":"الْمُهَيْمِن",
-        "text":"هو الرقيب الحافظ لكل شيء، القائم على خلقه بأعمالهم، وأرزاقهم وآجالهم، والمطلع على خفايا الأمور وخبايا الصدور"
-    },
-    {
-        "id": 9,
-        "name":"الْعَزِيز",
-        "text":"هو المنفرد بالعزة، الظاهر الذي لا يقهر، القوي الممتنع فلا يغلبه شيء وهو غالب كل شيء"
-    },
-    {
-        "id": 10,
-        "name":"الْجَبَّار",
-        "text":"هو الذي تنفذ مشيئته، ولا يخرج أحد عن تقديره، وهو القاهر لخلقه على ما أراد"
-    },
-    {
-        "id": 11,
-        "name":"الْمُتَكَبِّر",
-        "text":"هو المتعالى عن صفات الخلق المنفرد بالعظمة والكبرياء"
-    },
-    {
-        "id": 12,
-        "name":"الْخَالِق",
-        "text":"هو الفاطر المبدع لكل شيء، والمقدر له والموجد للأشياء من العدم، فهو خالق كل صانع وصنعته"
-    },
-    {
-        "id": 13,
-        "name":"الْبَارِئ",
-        "text":"هو الذي خلق الخلق بقدرته لا عن مثال سابق، القادر على إبراز ما قدره إلى الوجود"
-    },
-    {
-        "id": 14,
-        "name":"الْمُصَوِّر",
-        "text":"هو الذي صور جميع الموجودات، ورتبها فأعطى كل شيء منها صورة خاصة، وهيئة منفردة، يتميز بها على اختلافها وكثرتها"
-    },
-    {
-        "id": 15,
-        "name":"اَلْغَفَّار",
-        "text":"هو وحده الذي يغفر الذنوب ويستر العيوب في الدنيا والآخرة"
-    },
-    {
-        "id": 16,
-        "name":"الْقَهَّار",
-        "text":"هو الغالب الذي قهر خلقه بسلطانه وقدرته، وخضعت له الرقاب وذلت له الجبابرة، وصرف خلقه على ما أراد طوعا وكرها، وعنت الوجوه له"
-    },
-    {
-        "id": 17,
-        "name":"الْوَهَّاب",
-        "text":"هو المنعم على العباد، الذي يهب بغير عوض ويعطي الحاجة بغير سؤال، كثير النعم، دائم العطاء"
-    },
-    {
-        "id": 18,
-        "name":"الرَّزَّاق",
-        "text":"هو الذي خلق الأرزاق وأعطى كل الخلائق أرزاقها، ويمد كل كائن لما يحتاجه، ويحفظ عليه حياته ويصلحه"
-    },
-    {
-        "id": 19,
-        "name":"الْفَتَّاح",
-
-        "text":"هو الذي يفتح مغلق الأمور، ويسهل العسير، وبيده مفاتيح السماوات والأرض"
-    },
-    {
-        "id": 20,
-        "name":"الْعَلِيم",
-
-        "text":"هو الذي يعلم تفاصيل الأمور، ودقائق الأشياء وخفايا الضمائر، والنفوس، لا يعزب عنه مثقال ذرة، فعلمه يحيط بجميع الأشياء"
-    },
-    {
-        "id": 21,
-        "name":"الْقَابِضُ",
-        "text":"هو الذي يقبض الرزق عمن يشاء من الخلق بعدله وحكمته، والذي يوسع الرزق لمن يشاء من عباده بجوده ورحمته فهو سبحانه القابض الباسط"
-    },
-    {
-        "id": 22,
-        "name":"الْبَاسِطُ",
-        "text":"هو الذي يقبض الرزق عمن يشاء من الخلق بعدله وحكمته، والذي يوسع الرزق لمن يشاء من عباده بجوده ورحمته فهو سبحانه القابض الباسط"
-    },
-    {
-        "id": 23,
-        "name":"الخافض",
-        "text":"هو الذي يخفض الأذلال لكل من طغى وتجبر وخرج على شريعته وتمرد، وهو الذي يرفع عباده المؤمنين بالطاعات ويرفعهم على عدوهم فينصرهم وهو رافع السماوات السبع"
-    },
-    {
-        "id": 24,
-        "name":"الرَّافِعُ",
-        "text":"هو الذي يخفض الأذلال لكل من طغى وتجبر وخرج على شريعته وتمرد، وهو الذي يرفع عباده المؤمنين بالطاعات ويرفعهم على عدوهم فينصرهم وهو رافع السماوات السبع"
-    },
-    {
-        "id": 25,
-        "name":"المعز",
-        "text":"هو الذي يهب القوة والغلبة والشدة لمن شاء فيعزه، وينزعها عمن يشاء فيذله"
-    },
-    {
-        "id": 26,
-        "name":"المذل",
-        "text":"هو الذي يهب القوة والغلبة والشدة لمن شاء فيعزه، وينزعها عمن يشاء فيذله"
-    },
-    {
-        "id": 27,
-        "name":"السَّمِيعُ",
-        "text":"ومعناه سمعه لجميع الأصوات الظاهرة والباطنة الخفية والجلية، وإحاطته التامة بها، ومعناه أيضًا: سمع الإجابة منه للسائلين والداعين والعابدين فيجيبهم ويثيبهم"
-    },
-    {
-        "id": 28,
-        "name":"الْبَصِير",
-        "text":"هو الذي يرى الأشياء كلها ظاهرها وباطنها وهو المحيط بكل شيء علماً"
-    },
-    {
-        "id": 29,
-        "name":"الْحَكَم",
-        "text":"هو الذي يفصل بين مخلوقاته بما شاء ويفصل بين الحق والباطل لا راد لقضائه ولا معقب لحكمه"
+  "id": 2,
+  "name": "الرَّحْمَنُ",
+  "text": "كثير الرحمة وهو اسم مقصور على الله عز وجل ولا يجوز أن يقال رحمن لغير الله، وذلك لأن رحمته وسعت كل شيء وهو أرحم الراحمين",
+  "name_en": "Ar-Rahman",
+  "text_en": "The Most Merciful, whose mercy encompasses all things. This Name is exclusive to Allah, as His mercy is vast and all-encompassing, and He is the Most Merciful of those who show mercy."
+},
+{
+  "id": 3,
+  "name": "الرَّحِيم",
+  "text": "هو المنعم أبدا، المتفضل دوما، فرحمته لا تنتهي",
+  "name_en": "Ar-Raheem",
+  "text_en": "The Ever-Merciful, the One who continuously bestows blessings. His mercy is constant and never-ending."
+},
+{
+  "id": 4,
+  "name": "المَلِك",
+  "text": "هو الله، ملك الملوك، له الملك، وهو مالك يوم الدين، ومليك الخلق فهو المالك المطلق",
+  "name_en": "Al-Malik",
+  "text_en": "The Absolute King, Owner of all sovereignty. He is the Master of the Day of Judgment and the true Owner of all creation."
+},
+{
+  "id": 5,
+  "name": "الْقُدُّوس",
+  "text": "هو الطاهر المنزه عن العيوب والنقائص وعن كل ما تحيط به العقول",
+  "name_en": "Al-Quddus",
+  "text_en": "The Most Pure, free from all imperfections, deficiencies, and anything that the human mind can imagine."
+},
+{
+  "id": 6,
+  "name": "السَّلَام",
+  "text": "هو ناشر السلام بين الأنام وهو الذي سلمت ذاته من النقص والعيب والفناء",
+  "name_en": "As-Salaam",
+  "text_en": "The Source of Peace, free from every imperfection, and the One who spreads peace and safety among His creation."
+},
+{
+  "id": 7,
+  "name": "المُؤْمِن",
+  "text": "هو الذي سلم أوليائه من عذابه، والذي يصدق عباده ما وعدهم",
+  "name_en": "Al-Mu’min",
+  "text_en": "The Giver of Security, who grants safety to His servants and fulfills His promises to the believers."
+},
+{
+  "id": 8,
+  "name": "الْمُهَيْمِن",
+  "text": "هو الرقيب الحافظ لكل شيء، القائم على خلقه بأعمالهم، وأرزاقهم وآجالهم، والمطلع على خفايا الأمور وخبايا الصدور",
+  "name_en": "Al-Muhaymin",
+  "text_en": "The All-Watcher, the Protector who oversees all things and is fully aware of every hidden matter and inner secret."
+},
+{
+  "id": 9,
+  "name": "الْعَزِيز",
+  "text": "هو المنفرد بالعزة، الظاهر الذي لا يقهر، القوي الممتنع فلا يغلبه شيء وهو غالب كل شيء",
+  "name_en": "Al-Aziz",
+  "text_en": "The Almighty, the Invincible, whom nothing can overcome, and who has absolute dominance over all things."
+},
+{
+  "id": 10,
+  "name": "الْجَبَّار",
+  "text": "هو الذي تنفذ مشيئته، ولا يخرج أحد عن تقديره، وهو القاهر لخلقه على ما أراد",
+  "name_en": "Al-Jabbar",
+  "text_en": "The Compeller, whose will is always carried out, and to whom all creation submits according to His decree."
+},
+{
+  "id": 11,
+  "name": "الْمُتَكَبِّر",
+  "text": "هو المتعالى عن صفات الخلق المنفرد بالعظمة والكبرياء",
+  "name_en": "Al-Mutakabbir",
+  "text_en": "The Supremely Great, exalted above all creation, possessing true greatness and majesty."
+},
+{
+  "id": 12,
+  "name": "الْخَالِق",
+  "text": "هو الفاطر المبدع لكل شيء، والمقدر له والموجد للأشياء من العدم، فهو خالق كل صانع وصنعته",
+  "name_en": "Al-Khaliq",
+  "text_en": "The Creator, who brings all things into existence from nothing and determines their form and measure."
+},
+{
+  "id": 13,
+  "name": "الْبَارِئ",
+  "text": "هو الذي خلق الخلق بقدرته لا عن مثال سابق، القادر على إبراز ما قدره إلى الوجود",
+  "name_en": "Al-Bari’",
+  "text_en": "The Evolver, who creates without precedent and brings what He has decreed into existence."
+},
+{
+  "id": 14,
+  "name": "الْمُصَوِّر",
+  "text": "هو الذي صور جميع الموجودات، ورتبها فأعطى كل شيء منها صورة خاصة، وهيئة منفردة",
+  "name_en": "Al-Musawwir",
+  "text_en": "The Fashioner, who shapes all creation and gives each being its unique and perfect form."
+},
+{
+  "id": 15,
+  "name": "اَلْغَفَّار",
+  "text": "هو وحده الذي يغفر الذنوب ويستر العيوب في الدنيا والآخرة",
+  "name_en": "Al-Ghaffar",
+  "text_en": "The All-Forgiving, who repeatedly forgives sins and conceals faults in this life and the Hereafter."
+},
+{
+  "id": 16,
+  "name": "الْقَهَّار",
+  "text": "هو الغالب الذي قهر خلقه بسلطانه وقدرته",
+  "name_en": "Al-Qahhar",
+  "text_en": "The Subduer, who dominates all creation with His power and authority."
+},
+{
+  "id": 17,
+  "name": "الْوَهَّاب",
+  "text": "هو المنعم على العباد، الذي يهب بغير عوض ويعطي الحاجة بغير سؤال",
+  "name_en": "Al-Wahhab",
+  "text_en": "The Ever-Giver, who bestows blessings freely without expectation of return."
+},
+{
+  "id": 18,
+  "name": "الرَّزَّاق",
+  "text": "هو الذي خلق الأرزاق وأعطى كل الخلائق أرزاقها",
+  "name_en": "Ar-Razzaq",
+  "text_en": "The Provider, who creates all sustenance and provides for every creature."
+},
+{
+  "id": 19,
+  "name": "الْفَتَّاح",
+  "text": "هو الذي يفتح مغلق الأمور، ويسهل العسير",
+  "name_en": "Al-Fattah",
+  "text_en": "The Opener, who opens the doors of mercy, provision, and solutions to all difficulties."
+},
+{
+  "id": 20,
+  "name": "الْعَلِيم",
+  "text": "هو الذي يعلم تفاصيل الأمور ودقائق الأشياء",
+  "name_en": "Al-‘Aleem",
+  "text_en": "The All-Knowing, whose knowledge encompasses every detail, seen and unseen."
+},
+{
+  "id": 21,
+  "name": "الْقَابِضُ",
+  "text": "هو الذي يقبض الرزق عمن يشاء بحكمته",
+  "name_en": "Al-Qabid",
+  "text_en": "The Withholder, who restrains provision according to His wisdom."
+},
+{
+  "id": 22,
+  "name": "الْبَاسِطُ",
+  "text": "هو الذي يوسع الرزق لمن يشاء بجوده ورحمته",
+  "name_en": "Al-Basit",
+  "text_en": "The Expander, who grants abundance and increases provision by His generosity."
+},
+{
+  "id": 23,
+  "name": "الخافض",
+  "text": "هو الذي يخفض من شاء بعدله",
+  "name_en": "Al-Khafid",
+  "text_en": "The Abaser, who lowers whom He wills according to His justice."
+},
+{
+  "id": 24,
+  "name": "الرَّافِعُ",
+  "text": "هو الذي يرفع من شاء بطاعته",
+  "name_en": "Ar-Rafi’",
+  "text_en": "The Exalter, who raises in rank whom He wills."
+},
+{
+  "id": 25,
+  "name": "المعز",
+  "text": "هو الذي يهب العزة لمن يشاء",
+  "name_en": "Al-Mu’izz",
+  "text_en": "The Giver of Honor, who grants dignity and strength to whom He wills."
+},
+{
+  "id": 26,
+  "name": "المذل",
+  "text": "هو الذي ينزع العزة عمن يشاء",
+  "name_en": "Al-Mudhill",
+  "text_en": "The Humiliator, who brings humiliation to whom He wills."
+},
+{
+  "id": 27,
+  "name": "السَّمِيعُ",
+  "text": "سمعه محيط بكل الأصوات",
+  "name_en": "As-Sami’",
+  "text_en": "The All-Hearing, who hears every sound and responds to the supplications of His servants."
+},
+{
+  "id": 28,
+  "name": "الْبَصِير",
+  "text": "هو الذي يرى الأشياء كلها ظاهرها وباطنها",
+  "name_en": "Al-Baseer",
+  "text_en": "The All-Seeing, who sees everything, both apparent and hidden."
+},
+{ 
+     "id: 29,
+         "name::"الْحَكَم,
+         "text::"هو الذي يفصل بين مخلوقاته بما شاء ويفصل بين الحق والباطل لا راد لقضائه ولا معقب لحكمه
     },
     {
         "id": 30,
