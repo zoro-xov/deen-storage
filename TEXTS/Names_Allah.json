@@ -1,12 +1,14 @@
 [
-    {
+    [
+{
         "id": 1,
         "name":"اللَّهُ",
-        "text":text":"وهو الاسم الأعظم الذي تفرد به الحق سبحانه وخص به نفسه وجعله أول أسمائه، وأضافها كلها إليه فهو علم على ذاته س,
+        "text":"وهو الاسم الأعظم الذي تفرد به الحق سبحانه وخص به نفسه وجعله أول أسمائه، وأضافها كلها إليه فهو علم على ذاته سبحانه",
         "name_en": "Allah",
         "text_en": "It is the Greatest Name by which the Absolute Truth, Glorified and Exalted, is uniquely distinguished, reserved exclusively for Himself. He made it the first of His Names and attributed all the other Names to it, so it stands as a proper name for His Divine Essence."
     },
     {
+{
   "id": 2,
   "name": "الرَّحْمَنُ",
   "text": "كثير الرحمة وهو اسم مقصور على الله عز وجل ولا يجوز أن يقال رحمن لغير الله، وذلك لأن رحمته وسعت كل شيء وهو أرحم الراحمين",
@@ -194,365 +196,509 @@
   "text": "هو الذي يرى الأشياء كلها ظاهرها وباطنها",
   "name_en": "Al-Baseer",
   "text_en": "The All-Seeing, who sees everything, both apparent and hidden."
+}
+{
+  "id": 29,
+  "name":"الْحَكَم",
+  "text":"هو الذي يفصل بين مخلوقاته بما شاء ويفصل بين الحق والباطل لا راد لقضائه ولا معقب لحكمه",
+  "name_en":"Al-Hakam",
+  "text_en":"The Judge, who decides between His creation as He wills, distinguishing between truth and falsehood. None can repel His decree or overturn His judgment."
 },
-{ 
-     "id: 29,
-         "name::"الْحَكَم,
-         "text::"هو الذي يفصل بين مخلوقاته بما شاء ويفصل بين الحق والباطل لا راد لقضائه ولا معقب لحكمه
-    },
-    {
-        "id": 30,
-        "name":"العدل",
-        "text":"هو الذي حرم الظلم على نفسه، وجعله على عباده محرما، فهو المنزه عن الظلم والجور في أحكامه وأفعاله الذي يعطي كل ذي حق حقه"
-    },
-    {
-        "id": 31,
-        "name":"اللَّطِيفُ",
-        "text":"هو البر الرفيق بعباده، يرزق وييسر ويحسن إليهم، ويرفق بهم ويتفضل عليهم"
-    },
-    {
-        "id": 32,
-        "name":"الْخَبِيرُ",
-        "text":"هو العليم بدقائق الأمور، لا تخفى عليه خافية، ولا يغيب عن علمه شيء فهو العالم بما كان ويكون"
-    },
-    {
-        "id": 33,
-        "name":"الْحَلِيمُ",
-        "text":"هو الحليم الذي لا يعاجل العصاة بالنقمة، بل يعفوا ويؤخر، ولا يسرع بالفعل قبل أوانه"
-    },
-    {
-        "id": 34,
-        "name":"الْعَظِيمُ",
-        "text":"هو العظيم في كل شئ، عظيم في ذاته وأسمائه وصفاته، عظيم في رحمته، عظيم في قدرته، عظيم في حكمته، عظيم في جبروته وكبريائه، عظيم في هبته وعطائه، عظيم في خبرته ولطفه، عظيم في بره وإحسانه، عظيم في عزته وعدله وحمده، فهو العظيم المطلق، فلا أحد يساويه"
-    },
-    {
-        "id": 35,
-        "name":"الْغَفُورُ",
-        "text":"هو الساتر لذنوب عباده المتجاوز عن خطاياهم وذنوبهم. الفرق بين هذا الاسم واسم الغفار أن اسم الغفور يكون للدلالة على مغفرة الذنب مهما عظم وأيس صاحبه من المغفرة أما الغفار فتدل على مغفرة الله المستمرة للذنوب المختلفة لأن الإنسان خطاء فالله غفار"
-    },
-    {
-        "id": 36,
-        "name":"الشَّكُورُ",
-        "text":"هو الذي يزكو عنده القليل من أعمال العباد، فيتقبلها ويضاعف أجرها"
-    },
-    {
-        "id": 37,
-        "name":"الْعَلِيُّ",
-        "text":"هو الرفيع القدر فلا يحيط به وصف الواصفين المتعالي عن الأنداد والأضداد، فكل معاني العلو ثابتة له ذاتا وقهرا وشأنا"
-    },
-    {
-        "id": 38,
-        "name":"الْكَبِيرُ",
-        "text":"هو العظيم الجليل ذو الكبرياء في صفاته وأفعاله فلا يحتاج إلى شيء ولا يعجزه شيء (ليس كمثله شيء)"
-    },
-    {
-        "id": 39,
-        "name":"الْحَفِيظُ",
-        "text":"هو الذي لا يغرب عن حفظه شيء ولو كمثقال الذر فحفظه لا يتبدل ولا يزول ولا يعتريه التبديل"
-    },
-    {
-        "id": 40,
-        "name":"المُقِيت",
-        "text":"هو المتكفل بإيصال أقوات الخلق إليهم وهو الحفيظ والمقتدر والقدير والمقدر والممدد"
-    },
-    {
-        "id": 41,
-        "name":"الْحَسِيبُ",
-        "text":"هو الكافي الذي منه كفاية العباد وهو الذي عليه الاعتماد يكفي العباد بفضله"
-    },
-    {
-        "id": 42,
-        "name":"الجليل",
-        "text":"هو العظيم المطلق المتصف بجميع صفات الكمال والمنعوت بكمالها المنزه عن كل نقص"
-    },
-    {
-        "id": 43,
-        "name":"الْكَرِيمُ",
-        "text":"هو الكثير الخير الجواد المعطي الذي لا ينفذ عطاؤه وهو الكريم المطلق الجامع لأنواع الخير والشرف والفضائل المحمود بفعاله"
-    },
-    {
-        "id": 44,
-        "name":"الرَّقِيبُ",
-        "text":"هو الرقيب الذي يراقب أحوال العباد ويعلم أقوالهم ويحصي أعمالهم وهو الحافظ الذي لا يغيب عنه شيء"
-    },
-    {
-        "id": 45,
-        "name":"الْمُجِيبُ",
-        "text":"هو الذي يجيب دعاء من دعاه، وسؤال من سأله، ويقابله بالعطاء والقبول، ولا يسأل أحد سواه"
-    },
-    {
-        "id": 46,
-        "name":"الْوَاسِعُ",
-        "text":"هو الذي وسع رزقه جميع خلقه، وسعت رحمته كل شيء المحيط بكل شيء"
-    },
-    {
-        "id": 47,
-        "name":"اَلْحَكِيمُ",
-        "text":"هو المحق في تدبيره اللطيف في تقديره الخبير بحقائق الأمور العليم بحكمه المقدور فجميع خلقه وقضاه خير وحكمة وعدل"
-    },
-    {
-        "id": 48,
-        "name":"الْوَدُودُ",
-        "text":"هو المحب لعباده، والمحبوب في قلوب أوليائه"
-    },
-    {
-        "id": 49,
-        "name":"الْمَجِيدُ",
-        "text":"هو الله تمجَّد بفعاله، ومجَّده خلقه لعظمته، والمجيد هو واسع الكرم، ووصف نفسه بالمجيد وهو متضمن كثرة صفات كماله وسعتها، وعدم إحصاء الخلق لها، وسعة أفعاله وكثرة خيره ودوامه. وتعني أيضاً البالغ النهاية في المجد، الكثير الإحسان الجزيل العطاء العظيم البر. تمجد"
-    },
-    {
-        "id": 50,
-        "name":"الباعث",
-        "text":"هو باعث الخلق يوم القيامة، وباعث رسله إلى العباد، وباعث المعونة إلى العبد"
-    },
-    {
-        "id": 51,
-        "name":"الشَّهِيدُ",
-        "text":"هو الحاضر الذي لا يغيب عنه شيء، فهو المطلع على كل شيء مشاهد له عليم بتفاصيله"
-    },
-    {
-        "id": 52,
-        "name":"الْحَقُّ",
-        "text":"هو الذي يحق الحق بكلماته ويؤيد أولياءه فهو المستحق للعبادة"
-    },
-    {
-        "id": 53,
-        "name":"الْوَكِيلُ",
-        "text":"هو الكفيل بالخلق القائم بأمورهم فمن توكل عليه تولاه وكفاه، ومن استغنى به أغناه وأرضاه"
-    },
-    {
-        "id": 54,
-        "name":"الْقَوِيّ",
-        "text":"هو صاحب القدرة التامة البالغة الكمال غالب لا يُغلب فقوته فوق كل قوة، ولايرد قضاءه راد، ينفذ أمره، ويمضي قضاؤه في خلقه، شديد عقابه لمن كفر بآياته وجحد حججه"
-    },
-    {
-        "id": 55,
-        "name":"الْمَتِينُ",
-        "text":"هو الشديد الذي لا يحتاج في إمضاء حكمه إلى جند أو مدد ولا إلى معين، فهو المتناهي في القوة، التي لاتلحق أفعاله مشقة، ولايمسه فيها لغوب"
-    },
-    {
-        "id": 56,
-        "name":"الْوَلِيُّ",
-        "text":"هو المحب الناصر لمن أطاعه، ينصر أولياءه، ويقهر أعداءه، والمتولي الأمور الخلائق ويحفظهم"
-    },
-    {
-        "id": 57,
-        "name":"الْحَمِيدُ",
-        "text":"هو المستحق للحمد والثناء له منتهى الحمد وأطيبه على ذاته وصفاته وعلى نعمه التي لا تحصى"
-    },
-    {
-        "id": 58,
-        "name":"الْـمُحصِي",
-        "text":"هو الذي أحصى كل شيء بعلمه، فلا يفوته منها دقيق ولا جليل"
-    },
-    {
-        "id": 59,
-        "name":"المبدئ",
-        "text":"هو الذي أنشأ الأشياء، واخترعها ابتداء من غير سابق مثال"
-    },
-    {
-        "id": 60,
-        "name":"المعيد",
-        "text":"هو الذي يعيد الخلق بعد الحياة إلى الممات في الدنيا، وبعد الممات إلى الحياة يوم القيامة"
-    },
-    {
-        "id": 61,
-        "name":"المُحيي",
-        "text":"هو خالق الحياة ومعطيها لمن شاء، يحيي الخلق من العدم ثم يحييهم بعد الموت"
-    },
-    {
-        "id": 62,
-        "name":"المميت",
-        "text":"هو مقدر الموت على كل من أماته ولا مميت سواه، قهر عباده بالموت متى شاء وكيف شاء"
-    },
-    {
-        "id": 63,
-        "name":"الْحَيُّ",
-        "text":"هو المتصف بالحياة الأبدية التي لا بداية لها ولا نهاية فهو الباقي أزلا وأبدا وهو الحي الذي لا يموت"
-    },
-    {
-        "id": 64,
-        "name":"الْقَيُّومُ",
-        "text":"هو القائم بنفسه، الغني عن غيره، وهو القائم بتدبير أمر خلقه في إنشائهم ورزقهم"
-    },
-    {
-        "id": 65,
-        "name":"الواجد",
-        "text":"هو الذي لا يعوزه شيء ولا يعجزه شيء يجد كل ما يطلبه، ويدرك كل ما يريده"
-    },
-    {
-        "id": 66,
-        "name":"الماجد",
-        "text":"هو الذي له الكمال المتناهي والعز الباهي، له العز في الأوصاف والأفعال الذي يعامل العباد بالجود والرحمة"
-    },
-    {
-        "id": 67,
-        "name":"الْوَاحِدُ",
-        "text":"هو الفرد المتفرد في ذاته وصفائه وأفعاله، واحد في ملكه لا ينازعه أحد، لا شريك له سبحانه"
-    },
-    {
-        "id": 68,
-        "name":"الصَّمَدُ",
-        "text":"هو المطاع الذي لا يقضى دونه أمر، الذي يقصد إليه في الحوائج فهو مقصد عباده في مهمات دينهم ودنياهم"
-    },
-    {
-        "id": 69,
-        "name":"الْقَادِرُ",
-        "text":"هو الذي يقدر على إيجاد المعدوم وإعدام الموجود على قدر ما تقتضي الحكمة، لا زائدا عليه ولا ناقصا عنه"
-    },
-    {
-        "id": 70,
-        "name":"الْمُقْتَدِرُ",
-        "text":"هو الذي يقدر على إصلاح الخلائق على وجه لا يقدر عليه غيره"
-    },
-    {
-        "id": 71,
-        "name":"الْمُقَدِّمُ",
-        "text":"هو الذي يقدم الأشياء ويضعها في مواضعها، فمن استحق التقديم قدمه"
-    },
-    {
-        "id": 72,
-        "name":"الْمُؤَخِّرُ",
-        "text":"هو الذي يؤخر الأشياء فيضعها في مواضعها المؤخر لمن شاء من الفجار والكفار وكل من يستحق التأخير"
-    },
-    {
-        "id": 73,
-        "name":"الْأَوَّلُ",
-        "text":"هو الذي لم يسبقه في الوجود شيء فهو أول قبل الوجود"
-    },
-    {
-        "id": 74,
-        "name":"الْآخِرُ",
-        "text":"هو الباقي بعد فناء خلقه، البقاء الأبدي يفنى الكل وله البقاء وحده، فليس بعده شيء"
-    },
-    {
-        "id": 75,
-        "name":"الظَّاهِرُ",
-        "text":"هو الذي ظهر فوق كل شيء وعلا عليه، الظاهر وجوده لكثرة دلائله"
-    },
-    {
-        "id": 76,
-        "name":"الْبَاطِنُ",
-        "text":"هو العالم ببواطن الأمور وخفاياها، وهو أقرب إلينا من حبل الوريد"
-    },
-    {
-        "id": 77,
-        "name":"الوالي",
-        "text":"هو المالك للأشياء المتصرف فيها بمشيئته وحكمته، ينفذ فيها أمره، ويجري عليها حكمه"
-    },
-    {
-        "id": 78,
-        "name":"الْمُتَعَالِ",
-        "text":"هو الذي جل عن إفك المفترين، وتنزه عن وساوس المتحيرين"
-    },
-    {
-        "id": 79,
-        "name":"الْبَرُّ",
-        "text":"هو العطوف على عباده ببره ولطفه، ومن على السائلين بحسن عطائه، وهو الصدق فيما وعد"
-    },
-    {
-        "id": 80,
-        "name":"التَّوَّابُ",
-        "text":"هو الذي يوفق عباده للتوبة حتى يتوب عليهم ويقبل توبتهم فيقابل الدعاء بالعطاء، والتوبة بغفران الذنوب"
-    },
-    {
-        "id": 91,
-        "name":"الْمُنْتَقِمُ",
-        "text":"هو الذي يقصم ظهور الطغاة، ويشدد العقوبة على العصاة، وذلك بعد الإعذار والإنذار"
-    },
-    {
-        "id": 82,
-        "name":"العَفُو",
-        "text":"هو الذي يترك المؤاخدة على الذنوب ولا يذكرك بالعيوب فهو يمحو السيئات ويتجاوز عن المعاصي"
-    },
-    {
-        "id": 83,
-        "name":"الرَّؤُوفُ",
-        "text":"هو المتعطف على المذنبين بالتوبة، الذي جاد بلطفه ومَنَّ بتعطفه، يستر العيوب ثم يعفو عنها"
-    },
-    {
-        "id": 84,
-        "name":"مَالِكُ الْمُلْكِ",
-        "text":"هو المتصرف في ملكه كيف يشاء لا راد لحكمه، ولا معقب لأمره"
-    },
-    {
-        "id": 85,
-        "name":"ذُو الْجَلَالِ والْإكْرَامِ",
-        "text":"هو المنفرد بصفات الجلال والكمال والعظمة، المختص بالإكرام والكرامة وهو أهل لأن يجل"
-    },
-    {
-        "id": 86,
-        "name":"المقسط",
-        "text":"هو العادل في حكمه، الذي ينتصف للمظلوم من الظالم، ثم يكمل عدله فيرضي الظالم بعد إرضاء المظلوم"
-    },
-    {
-        "id": 87,
-        "name":"الْجَامِعُ",
-        "text":"هو الذي جمع الكمالات كلها، ذاتا ووصفا وفعلا، الذي يجمع بين الخلائق المتماثلة والمتباينة، والذي يجمع الأولين والآخرين"
-    },
-    {
-        "id": 88,
-        "name":"الْغَنِيُّ",
-        "text":"هو الذي لا يحتاج إلى شيء، وهو المستغني عن كل ما سواه، المفتقر إليه كل من عاداه"
-    },
-    {
-        "id": 89,
-        "name":"المغني",
-        "text":"هو معطي الغنى لعباده، يغني من يشاء غناه، وهو الكافي لمن شاء من عباده"
-    },
-    {
-        "id": 90,
-        "name":"الْمُعْطِي",
-        "text":"هو الذي أعطى كل شيء"
-    },
-    {
-        "id": 91,
-        "name":"المانع",
-        "text":"يمنع العطاء عن من يشاء ابتلاء أو حماية"
-    },
-    {
-        "id": 92,
-        "name":"الضار",
-        "text":"هو المقدر للضر على من أراد كيف أراد"
-    },
-    {
-        "id": 93,
-        "name":"النافع",
-        "text":"مقدر النفع والخير لمن أراد كيف أراد كل ذلك على مقتضى حكمته سبحانه"
-    },
-    {
-        "id": 94,
-        "name":"النُّورُ",
-        "text":"هو الهادي الرشيد الذي يرشد بهدايته من يشاء فيبين له الحق، ويلهمه اتباعه، الظاهر في ذاته، المظهر لغيره"
-    },
-    {
-        "id": 95,
-        "name":"الْهَادِي",
-        "text":"هو المبين للخلق طريق الحق بكلامه يهدي القلوب إلى معرفته، والنفوس إلى طاعته"
-    },
-    {
-        "id": 96,
-        "name":"الْبَدِيعُ",
-        "text":"هو الذي لا يماثله أحد في صفاته ولا في حكم من أحكامه، أو أمر من أموره، فهو المحدث الموجد على غير مثال"
-    },
-    {
-        "id": 97,
-        "name":"الباقي",
-        "text":"هو وحده له البقاء، الدائم الوجود الموصوف بالبقاء الأزلي، غير قابل للفناء فهو الباقي بلا انتهاء"
-    },
-    {
-        "id": 98,
-        "name":"الْوَارِثُ",
-        "text":"هو الأبقى الدائم الذي يرث الخلائق بعد فناء الخلق، وهو يرث الأرض ومن عليها"
-    },
-    {
-        "id": 99,
-        "name":"الرشيد",
-        "text":"هو الذي أسعد من شاء بإرشاده، وأشقى من شاء بإبعاده، عظيم الحكمة بالغ الرشاد"
-    },
-    {
-        "id": 100,
-        "name":"الصبور",
-        "text":"هو الصبور الذي يمهل ولا يهمل، ويستر الذنوب، ويؤخر العقوبة، فيرزق العاصي كما يرزق المطيع"
-    }
-]
+{
+  "id": 30,
+  "name":"العدل",
+  "text":"هو الذي حرم الظلم على نفسه، وجعله على عباده محرما، فهو المنزه عن الظلم والجور في أحكامه وأفعاله الذي يعطي كل ذي حق حقه",
+  "name_en":"Al-Adl",
+  "text_en":"The Utterly Just, who has forbidden injustice upon Himself and made it forbidden among His servants. He gives every rightful owner their due."
+},
+{
+  "id": 31,
+  "name":"اللَّطِيفُ",
+  "text":"هو البر الرفيق بعباده، يرزق وييسر ويحسن إليهم، ويرفق بهم ويتفضل عليهم",
+  "name_en":"Al-Latif",
+  "text_en":"The Most Gentle, kind and subtle with His servants, providing for them, easing matters, and bestowing His favor upon them."
+},
+{
+  "id": 32,
+  "name":"الْخَبِيرُ",
+  "text":"هو العليم بدقائق الأمور، لا تخفى عليه خافية، ولا يغيب عن علمه شيء فهو العالم بما كان ويكون",
+  "name_en":"Al-Khabeer",
+  "text_en":"The All-Aware, who knows the finest details. Nothing is hidden from Him, and He knows all that was and all that will be."
+},
+{
+  "id": 33,
+  "name":"الْحَلِيمُ",
+  "text":"هو الحليم الذي لا يعاجل العصاة بالنقمة، بل يعفوا ويؤخر، ولا يسرع بالفعل قبل أوانه",
+  "name_en":"Al-Haleem",
+  "text_en":"The Most Forbearing, who does not hasten punishment upon sinners, but pardons and delays with wisdom."
+},
+{
+  "id": 34,
+  "name":"الْعَظِيمُ",
+  "text":"هو العظيم في كل شئ، عظيم في ذاته وأسمائه وصفاته، عظيم في رحمته، عظيم في قدرته، عظيم في حكمته، عظيم في جبروته وكبريائه، عظيم في هبته وعطائه، عظيم في خبرته ولطفه، عظيم في بره وإحسانه، عظيم في عزته وعدله وحمده، فهو العظيم المطلق، فلا أحد يساويه",
+  "name_en":"Al-Azeem",
+  "text_en":"The Most Great in every aspect: in His Essence, Names, Attributes, mercy, power, wisdom, might, generosity, kindness, justice, and praise. He is the Absolute Great, with none equal to Him."
+},
+{
+  "id": 35,
+  "name":"الْغَفُورُ",
+  "text":"هو الساتر لذنوب عباده المتجاوز عن خطاياهم وذنوبهم. الفرق بين هذا الاسم واسم الغفار أن اسم الغفور يكون للدلالة على مغفرة الذنب مهما عظم وأيس صاحبه من المغفرة أما الغفار فتدل على مغفرة الله المستمرة للذنوب المختلفة لأن الإنسان خطاء فالله غفار",
+  "name_en":"Al-Ghafoor",
+  "text_en":"The All-Forgiving, who conceals and forgives the sins of His servants. This Name indicates forgiveness no matter how great the sin, while Al-Ghaffar denotes continuous forgiveness."
+},
+{
+  "id": 36,
+  "name":"الشَّكُورُ",
+  "text":"هو الذي يزكو عنده القليل من أعمال العباد، فيتقبلها ويضاعف أجرها",
+  "name_en":"Ash-Shakoor",
+  "text_en":"The Most Appreciative, who accepts small deeds from His servants and multiplies their reward."
+},
+{
+  "id": 37,
+  "name":"الْعَلِيُّ",
+  "text":"هو الرفيع القدر فلا يحيط به وصف الواصفين المتعالي عن الأنداد والأضداد، فكل معاني العلو ثابتة له ذاتا وقهرا وشأنا",
+  "name_en":"Al-Aliyy",
+  "text_en":"The Most High, exalted in rank and status, above all equals and rivals, possessing all meanings of elevation."
+},
+{
+  "id": 38,
+  "name":"الْكَبِيرُ",
+  "text":"هو العظيم الجليل ذو الكبرياء في صفاته وأفعاله فلا يحتاج إلى شيء ولا يعجزه شيء (ليس كمثله شيء)",
+  "name_en":"Al-Kabeer",
+  "text_en":"The Most Great, Majestic in His attributes and actions, needing nothing and incapable of being overpowered."
+},
+{
+  "id": 39,
+  "name":"الْحَفِيظُ",
+  "text":"هو الذي لا يغرب عن حفظه شيء ولو كمثقال الذر فحفظه لا يتبدل ولا يزول ولا يعتريه التبديل",
+  "name_en":"Al-Hafeez",
+  "text_en":"The Preserver, from whose protection nothing escapes, even the weight of an atom. His preservation never changes or fades."
+},
+{
+  "id": 40,
+  "name":"المُقِيت",
+  "text":"هو المتكفل بإيصال أقوات الخلق إليهم وهو الحفيظ والمقتدر والقدير والمقدر والممدد",
+  "name_en":"Al-Muqeet",
+  "text_en":"The Sustainer, responsible for delivering sustenance to all creation, possessing power, capability, and provision."
+}
+{
+  "id": 41,
+  "name":"الْحَسِيبُ",
+  "text":"هو الكافي الذي منه كفاية العباد وهو الذي عليه الاعتماد يكفي العباد بفضله",
+  "name_en":"Al-Haseeb",
+  "text_en":"The Reckoner, the One who is sufficient for His servants and upon whom they rely. He suffices them by His فضل."
+},
+{
+  "id": 42,
+  "name":"الجليل",
+  "text":"هو العظيم المطلق المتصف بجميع صفات الكمال والمنعوت بكمالها المنزه عن كل نقص",
+  "name_en":"Al-Jaleel",
+  "text_en":"The Majestic, the Absolute Great, described by all attributes of perfection and free from every deficiency."
+},
+{
+  "id": 43,
+  "name":"الْكَرِيمُ",
+  "text":"هو الكثير الخير الجواد المعطي الذي لا ينفذ عطاؤه وهو الكريم المطلق الجامع لأنواع الخير والشرف والفضائل المحمود بفعاله",
+  "name_en":"Al-Kareem",
+  "text_en":"The Most Generous, abundant in goodness, whose giving never runs out, encompassing all forms of honor, virtue, and goodness."
+},
+{
+  "id": 44,
+  "name":"الرَّقِيبُ",
+  "text":"هو الرقيب الذي يراقب أحوال العباد ويعلم أقوالهم ويحصي أعمالهم وهو الحافظ الذي لا يغيب عنه شيء",
+  "name_en":"Ar-Raqeeb",
+  "text_en":"The Watchful, who observes the states of His servants, knows their words, counts their deeds, and nothing escapes Him."
+},
+{
+  "id": 45,
+  "name":"الْمُجِيبُ",
+  "text":"هو الذي يجيب دعاء من دعاه، وسؤال من سأله، ويقابله بالعطاء والقبول، ولا يسأل أحد سواه",
+  "name_en":"Al-Mujeeb",
+  "text_en":"The Responsive, who answers the supplication of those who call upon Him and grants them acceptance and giving."
+},
+{
+  "id": 46,
+  "name":"الْوَاسِعُ",
+  "text":"هو الذي وسع رزقه جميع خلقه، وسعت رحمته كل شيء المحيط بكل شيء",
+  "name_en":"Al-Waasi’",
+  "text_en":"The All-Encompassing, whose provision reaches all creation and whose mercy encompasses everything."
+},
+{
+  "id": 47,
+  "name":"اَلْحَكِيمُ",
+  "text":"هو المحق في تدبيره اللطيف في تقديره الخبير بحقائق الأمور العليم بحكمه المقدور فجميع خلقه وقضاه خير وحكمة وعدل",
+  "name_en":"Al-Hakeem",
+  "text_en":"The All-Wise, perfect in His planning and decree, fully aware of realities. All His creation and decrees are goodness, wisdom, and justice."
+},
+{
+  "id": 48,
+  "name":"الْوَدُودُ",
+  "text":"هو المحب لعباده، والمحبوب في قلوب أوليائه",
+  "name_en":"Al-Wadood",
+  "text_en":"The Most Loving, who loves His servants and is beloved in the hearts of His righteous ones."
+},
+{
+  "id": 49,
+  "name":"الْمَجِيدُ",
+  "text":"هو الله تمجَّد بفعاله، ومجَّده خلقه لعظمته، والمجيد هو واسع الكرم، ووصف نفسه بالمجيد وهو متضمن كثرة صفات كماله وسعتها، وعدم إحصاء الخلق لها، وسعة أفعاله وكثرة خيره ودوامه. وتعني أيضاً البالغ النهاية في المجد، الكثير الإحسان الجزيل العطاء العظيم البر. تمجد",
+  "name_en":"Al-Majeed",
+  "text_en":"The Glorious, exalted by His actions and praised by His creation. Vast in generosity, abundant in perfection, goodness, and everlasting bounty."
+},
+{
+  "id": 50,
+  "name":"الباعث",
+  "text":"هو باعث الخلق يوم القيامة، وباعث رسله إلى العباد، وباعث المعونة إلى العبد",
+  "name_en":"Al-Ba’ith",
+  "text_en":"The Resurrector, who raises creation on the Day of Resurrection, sends messengers, and grants assistance."
+},
+{
+  "id": 51,
+  "name":"الشَّهِيدُ",
+  "text":"هو الحاضر الذي لا يغيب عنه شيء، فهو المطلع على كل شيء مشاهد له عليم بتفاصيله",
+  "name_en":"Ash-Shaheed",
+  "text_en":"The All-Witnessing, present and aware of everything, observing all matters and knowing every detail."
+},
+{
+  "id": 52,
+  "name":"الْحَقُّ",
+  "text":"هو الذي يحق الحق بكلماته ويؤيد أولياءه فهو المستحق للعبادة",
+  "name_en":"Al-Haqq",
+  "text_en":"The Absolute Truth, who establishes truth by His words and supports His allies, deserving all worship."
+},
+{
+  "id": 53,
+  "name":"الْوَكِيلُ",
+  "text":"هو الكفيل بالخلق القائم بأمورهم فمن توكل عليه تولاه وكفاه، ومن استغنى به أغناه وأرضاه",
+  "name_en":"Al-Wakeel",
+  "text_en":"The Trustee, who manages the affairs of creation. Whoever relies upon Him, He suffices and takes care of."
+},
+{
+  "id": 54,
+  "name":"الْقَوِيّ",
+  "text":"هو صاحب القدرة التامة البالغة الكمال غالب لا يُغلب فقوته فوق كل قوة، ولايرد قضاءه راد، ينفذ أمره، ويمضي قضاؤه في خلقه، شديد عقابه لمن كفر بآياته وجحد حججه",
+  "name_en":"Al-Qawiyy",
+  "text_en":"The All-Powerful, possessing perfect and complete strength. None can overcome Him, and His decree cannot be repelled."
+},
+{
+  "id": 55,
+  "name":"الْمَتِينُ",
+  "text":"هو الشديد الذي لا يحتاج في إمضاء حكمه إلى جند أو مدد ولا إلى معين، فهو المتناهي في القوة، التي لاتلحق أفعاله مشقة، ولايمسه فيها لغوب",
+  "name_en":"Al-Mateen",
+  "text_en":"The Firm, whose strength is perfect and absolute, needing no support or assistance, untouched by fatigue."
+}
+{
+  "id": 56,
+  "name":"الْوَلِيُّ",
+  "text":"هو المحب الناصر لمن أطاعه، ينصر أولياءه، ويقهر أعداءه، والمتولي الأمور الخلائق ويحفظهم",
+  "name_en":"Al-Waliyy",
+  "text_en":"The Protecting Friend, the Lover and Helper of those who obey Him, who defeats their enemies and governs all creation."
+},
+{
+  "id": 57,
+  "name":"الْحَمِيدُ",
+  "text":"هو المستحق للحمد والثناء له منتهى الحمد وأطيبه على ذاته وصفاته وعلى نعمه التي لا تحصى",
+  "name_en":"Al-Hameed",
+  "text_en":"The Praiseworthy, deserving of all praise and commendation for His Essence, attributes, and countless blessings."
+},
+{
+  "id": 58,
+  "name":"الْمُحْصِي",
+  "text":"هو الذي أحصى كل شيء بعلمه، فلا يفوته منها دقيق ولا جليل",
+  "name_en":"Al-Muhsi",
+  "text_en":"The Reckoner, who counts everything with His knowledge, missing neither the slightest detail nor the grandest matter."
+},
+{
+  "id": 59,
+  "name":"المبدئ",
+  "text":"هو الذي أنشأ الأشياء، واخترعها ابتداء من غير سابق مثال",
+  "name_en":"Al-Mubdi’",
+  "text_en":"The Originator, who brings things into existence and creates without any precedent."
+},
+{
+  "id": 60,
+  "name":"المعيد",
+  "text":"هو الذي يعيد الخلق بعد الحياة إلى الممات في الدنيا، وبعد الممات إلى الحياة يوم القيامة",
+  "name_en":"Al-Mu’id",
+  "text_en":"The Restorer, who returns creation from life to death in this world, and from death to life on the Day of Resurrection."
+},
+{
+  "id": 61,
+  "name":"المُحيي",
+  "text":"هو خالق الحياة ومعطيها لمن شاء، يحيي الخلق من العدم ثم يحييهم بعد الموت",
+  "name_en":"Al-Muhyi",
+  "text_en":"The Giver of Life, who grants life to whomever He wills, bringing creation from non-existence and then reviving them after death."
+},
+{
+  "id": 62,
+  "name":"المميت",
+  "text":"هو مقدر الموت على كل من أماته ولا مميت سواه، قهر عباده بالموت متى شاء وكيف شاء",
+  "name_en":"Al-Mumeet",
+  "text_en":"The Causer of Death, who decrees death for every being, none but Him can cause it, and He executes it as He wills."
+},
+{
+  "id": 63,
+  "name":"الْحَيُّ",
+  "text":"هو المتصف بالحياة الأبدية التي لا بداية لها ولا نهاية فهو الباقي أزلا وأبدا وهو الحي الذي لا يموت",
+  "name_en":"Al-Hayy",
+  "text_en":"The Ever-Living, possessing eternal life with no beginning and no end, remaining forever, never dying."
+},
+{
+  "id": 64,
+  "name":"الْقَيُّومُ",
+  "text":"هو القائم بنفسه، الغني عن غيره، وهو القائم بتدبير أمر خلقه في إنشائهم ورزقهم",
+  "name_en":"Al-Qayyum",
+  "text_en":"The Self-Subsisting, independent of all, sustaining and managing the affairs of His creation."
+},
+{
+  "id": 65,
+  "name":"الواجد",
+  "text":"هو الذي لا يعوزه شيء ولا يعجزه شيء يجد كل ما يطلبه، ويدرك كل ما يريده",
+  "name_en":"Al-Wajid",
+  "text_en":"The Perceiver, lacking nothing, incapable of being overcome, finding everything He seeks and accomplishing all He wills."
+},
+{
+  "id": 66,
+  "name":"الماجد",
+  "text":"هو الذي له الكمال المتناهي والعز الباهي، له العز في الأوصاف والأفعال الذي يعامل العباد بالجود والرحمة",
+  "name_en":"Al-Majid",
+  "text_en":"The Most Glorious, possessing ultimate perfection and magnificent honor, treating His servants with generosity and mercy."
+},
+{
+  "id": 67,
+  "name":"الْوَاحِدُ",
+  "text":"هو الفرد المتفرد في ذاته وصفائه وأفعاله، واحد في ملكه لا ينازعه أحد، لا شريك له سبحانه",
+  "name_en":"Al-Wahid",
+  "text_en":"The One, unique in His Essence, purity, and actions, unmatched in His sovereignty, with no partner."
+},
+{
+  "id": 68,
+  "name":"الصَّمَدُ",
+  "text":"هو المطاع الذي لا يقضى دونه أمر، الذي يقصد إليه في الحوائج فهو مقصد عباده في مهمات دينهم ودنياهم",
+  "name_en":"As-Samad",
+  "text_en":"The Eternal, the One who is relied upon, to whom all needs are directed, and the ultimate refuge for His servants in religion and worldly affairs."
+},
+{
+  "id": 69,
+  "name":"الْقَادِرُ",
+  "text":"هو الذي يقدر على إيجاد المعدوم وإعدام الموجود على قدر ما تقتضي الحكمة، لا زائدا عليه ولا ناقصا عنه",
+  "name_en":"Al-Qadir",
+  "text_en":"The All-Powerful, capable of bringing the non-existent into existence and annihilating the existent according to His wisdom."
+},
+{
+  "id": 70,
+  "name":"الْمُقْتَدِرُ",
+  "text":"هو الذي يقدر على إصلاح الخلائق على وجه لا يقدر عليه غيره",
+  "name_en":"Al-Muqtadir",
+  "text_en":"The Omnipotent, capable of managing and perfecting creation in a way none else can."
+}
+{
+  "id": 71,
+  "name":"الْمُقَدِّمُ",
+  "text":"هو الذي يقدم الأشياء ويضعها في مواضعها، فمن استحق التقديم قدمه",
+  "name_en":"Al-Muqaddim",
+  "text_en":"The Expediter, who advances things and places them in their proper positions, giving precedence to whom He wills."
+},
+{
+  "id": 72,
+  "name":"الْمُؤَخِّرُ",
+  "text":"هو الذي يؤخر الأشياء فيضعها في مواضعها المؤخر لمن شاء من الفجار والكفار وكل من يستحق التأخير",
+  "name_en":"Al-Mu’akhkhir",
+  "text_en":"The Delayer, who postpones things and assigns their positions to those He wills, including the disobedient and wrongdoers."
+},
+{
+  "id": 73,
+  "name":"الْأَوَّلُ",
+  "text":"هو الذي لم يسبقه في الوجود شيء فهو أول قبل الوجود",
+  "name_en":"Al-Awwal",
+  "text_en":"The First, who precedes all in existence, existing before everything else."
+},
+{
+  "id": 74,
+  "name":"الْآخِرُ",
+  "text":"هو الباقي بعد فناء خلقه، البقاء الأبدي يفنى الكل وله البقاء وحده، فليس بعده شيء",
+  "name_en":"Al-Akhir",
+  "text_en":"The Last, remaining after all creation perishes, eternal, with no one remaining besides Him."
+},
+{
+  "id": 75,
+  "name":"الظَّاهِرُ",
+  "text":"هو الذي ظهر فوق كل شيء وعلا عليه، الظاهر وجوده لكثرة دلائله",
+  "name_en":"Az-Zahir",
+  "text_en":"The Manifest, who is evident above all things and whose presence is obvious through countless signs."
+},
+{
+  "id": 76,
+  "name":"الْبَاطِنُ",
+  "text":"هو العالم ببواطن الأمور وخفاياها، وهو أقرب إلينا من حبل الوريد",
+  "name_en":"Al-Batin",
+  "text_en":"The Hidden, who knows all hidden matters and is closer to us than our jugular vein."
+},
+{
+  "id": 77,
+  "name":"الوالي",
+  "text":"هو المالك للأشياء المتصرف فيها بمشيئته وحكمته، ينفذ فيها أمره، ويجري عليها حكمه",
+  "name_en":"Al-Wali",
+  "text_en":"The Governor, who owns and manages all things with His will and wisdom, carrying out His command."
+},
+{
+  "id": 78,
+  "name":"الْمُتَعَالِ",
+  "text":"هو الذي جل عن إفك المفترين، وتنزه عن وساوس المتحيرين",
+  "name_en":"Al-Muta’ali",
+  "text_en":"The Most Exalted, free from false accusations and purified from the doubts of the perplexed."
+},
+{
+  "id": 79,
+  "name":"الْبَرُّ",
+  "text":"هو العطوف على عباده ببره ولطفه، ومن على السائلين بحسن عطائه، وهو الصدق فيما وعد",
+  "name_en":"Al-Barr",
+  "text_en":"The Source of Goodness, compassionate to His servants with His benevolence and kindness, truthful in His promises."
+},
+{
+  "id": 80,
+  "name":"التَّوَّابُ",
+  "text":"هو الذي يوفق عباده للتوبة حتى يتوب عليهم ويقبل توبتهم فيقابل الدعاء بالعطاء، والتوبة بغفران الذنوب",
+  "name_en":"At-Tawwab",
+  "text_en":"The Acceptor of Repentance, who guides His servants to repent, accepts their repentance, responding to supplications with blessings and forgiving sins."
+},
+{
+  "id": 81,
+  "name":"الْمُنْتَقِمُ",
+  "text":"هو الذي يقصم ظهور الطغاة، ويشدد العقوبة على العصاة، وذلك بعد الإعذار والإنذار",
+  "name_en":"Al-Muntaqim",
+  "text_en":"The Avenger, who breaks the power of the tyrants and imposes severe punishment on the sinners after warning them."
+},
+{
+  "id": 82,
+  "name":"العَفُو",
+  "text":"هو الذي يترك المؤاخذة على الذنوب ولا يذكرك بالعيوب فهو يمحو السيئات ويتجاوز عن المعاصي",
+  "name_en":"Al-‘Afuww",
+  "text_en":"The Pardoner, who refrains from punishing sins and erases faults, forgiving transgressions."
+},
+{
+  "id": 83,
+  "name":"الرَّؤُوفُ",
+  "text":"هو المتعطف على المذنبين بالتوبة، الذي جاد بلطفه ومَنَّ بتعطفه، يستر العيوب ثم يعفو عنها",
+  "name_en":"Ar-Ra’uf",
+  "text_en":"The Compassionate, who is gentle with the repentant sinners, covering their faults and forgiving them."
+},
+{
+  "id": 84,
+  "name":"مَالِكُ الْمُلْكِ",
+  "text":"هو المتصرف في ملكه كيف يشاء لا راد لحكمه، ولا معقب لأمره",
+  "name_en":"Malik-ul-Mulk",
+  "text_en":"The Owner of Sovereignty, who manages His dominion as He wills, with no one to oppose or delay His command."
+},
+{
+  "id": 85,
+  "name":"ذُو الْجَلَالِ والْإكْرَامِ",
+  "text":"هو المنفرد بصفات الجلال والكمال والعظمة، المختص بالإكرام والكرامة وهو أهل لأن يجل",
+  "name_en":"Dhul-Jalal wal-Ikram",
+  "text_en":"The Lord of Majesty and Bounty, unique in grandeur, perfection, and honor, deserving of all reverence."
+}
+{
+  "id": 86,
+  "name":"المقسط",
+  "text":"هو العادل في حكمه، الذي ينتصف للمظلوم من الظالم، ثم يكمل عدله فيرضي الظالم بعد إرضاء المظلوم",
+  "name_en":"Al-Muqsit",
+  "text_en":"The Just, who ensures fairness between the oppressed and the oppressor, completing justice by satisfying both."
+},
+{
+  "id": 87,
+  "name":"الْجَامِعُ",
+  "text":"هو الذي جمع الكمالات كلها، ذاتا ووصفا وفعلا، الذي يجمع بين الخلائق المتماثلة والمتباينة، والذي يجمع الأولين والآخرين",
+  "name_en":"Al-Jami’",
+  "text_en":"The Gatherer, who combines all perfections, uniting similar and differing creatures, the first and the last."
+},
+{
+  "id": 88,
+  "name":"الْغَنِيُّ",
+  "text":"هو الذي لا يحتاج إلى شيء، وهو المستغني عن كل ما سواه، المفتقر إليه كل من عاداه",
+  "name_en":"Al-Ghaniyy",
+  "text_en":"The Self-Sufficient, independent of all, while everyone else is in need of Him."
+},
+{
+  "id": 89,
+  "name":"المغني",
+  "text":"هو معطي الغنى لعباده، يغني من يشاء غناه، وهو الكافي لمن شاء من عباده",
+  "name_en":"Al-Mughni",
+  "text_en":"The Enricher, who grants wealth to whom He wills and suffices for whom He wills."
+},
+{
+  "id": 90,
+  "name":"الْمُعْطِي",
+  "text":"هو الذي أعطى كل شيء",
+  "name_en":"Al-Mu’ti",
+  "text_en":"The Bestower, who grants everything to His creation."
+},
+{
+  "id": 91,
+  "name":"المانع",
+  "text":"يمنع العطاء عن من يشاء ابتلاء أو حماية",
+  "name_en":"Al-Mani’",
+  "text_en":"The Withholder, who prevents provision from whom He wills as a test or protection."
+},
+{
+  "id": 92,
+  "name":"الضار",
+  "text":"هو المقدر للضر على من أراد كيف أراد",
+  "name_en":"Ad-Darr",
+  "text_en":"The Harmer, who decrees harm upon whom He wills in whatever manner He wills."
+},
+{
+  "id": 93,
+  "name":"النافع",
+  "text":"مقدر النفع والخير لمن أراد كيف أراد كل ذلك على مقتضى حكمته سبحانه",
+  "name_en":"An-Nafi’",
+  "text_en":"The Benefactor, who ordains benefit and goodness for whom He wills according to His wisdom."
+},
+{
+  "id": 94,
+  "name":"النُّورُ",
+  "text":"هو الهادي الرشيد الذي يرشد بهدايته من يشاء فيبين له الحق، ويلهمه اتباعه، الظاهر في ذاته، المظهر لغيره",
+  "name_en":"An-Nur",
+  "text_en":"The Light, who guides by His illumination those He wills, making the truth clear and inspiring them to follow it."
+},
+{
+  "id": 95,
+  "name":"الْهَادِي",
+  "text":"هو المبين للخلق طريق الحق بكلامه يهدي القلوب إلى معرفته، والنفوس إلى طاعته",
+  "name_en":"Al-Hadi",
+  "text_en":"The Guide, who shows creation the way to truth through His word, guiding hearts to know Him and souls to obey Him."
+},
+{
+  "id": 96,
+  "name":"الْبَدِيعُ",
+  "text":"هو الذي لا يماثله أحد في صفاته ولا في حكم من أحكامه، أو أمر من أموره، فهو المحدث الموجد على غير مثال",
+  "name_en":"Al-Badi’",
+  "text_en":"The Incomparable, who has no equal in His attributes, decrees, or creation; the Originator of all things without precedent."
+},
+{
+  "id": 97,
+  "name":"الباقي",
+  "text":"هو وحده له البقاء، الدائم الوجود الموصوف بالبقاء الأزلي، غير قابل للفناء فهو الباقي بلا انتهاء",
+  "name_en":"Al-Baqi",
+  "text_en":"The Everlasting, whose existence is eternal, imperishable, and without end."
+},
+{
+  "id": 98,
+  "name":"الْوَارِثُ",
+  "text":"هو الأبقى الدائم الذي يرث الخلائق بعد فناء الخلق، وهو يرث الأرض ومن عليها",
+  "name_en":"Al-Warith",
+  "text_en":"The Inheritor, who survives all creation and inherits the earth and all upon it."
+},
+{
+  "id": 99,
+  "name":"الرشيد",
+  "text":"هو الذي أسعد من شاء بإرشاده، وأشقى من شاء بإبعاده، عظيم الحكمة بالغ الرشاد",
+  "name_en":"Ar-Rashid",
+  "text_en":"The Guide to the Right Path, who leads to happiness whom He wills and misguides whom He wills, of immense wisdom."
+},
+{
+  "id": 100,
+  "name":"الصبور",
+  "text":"هو الصبور الذي يمهل ولا يهمل، ويستر الذنوب، ويؤخر العقوبة، فيرزق العاصي كما يرزق المطيع",
+  "name_en":"As-Sabur",
+  "text_en":"The Patient, who delays punishment, conceals sins, and provides sustenance to the disobedient as He does to the obedient."
+        }
+] 
